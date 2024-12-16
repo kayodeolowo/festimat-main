@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="bg-[url('/assets/images/hero.png')]  bg-cover h-[24rem]" >
             <Container>
            
-            <h1 className='text-2xl  md:text-4xl pt-12 pb-10 font-bold text-white'> Don't miss out! <br/>
+            <h1 className='text-2xl  md:text-4xl pt-12 pb-10 font-bold text-white'> Dont miss out! <br/>
             Explore the vibrant events happening locally and globally.</h1>
 
 <div className='mt-10 bg-white w-[80%]  mx-auto py-2 flex justify-between rounded-md  mb-16 items-center px-4 '>
